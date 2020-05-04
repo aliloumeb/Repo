@@ -9,7 +9,7 @@
   </head>
   <body>
       <h1>To Do List</h1>
-      <p>Write the Item you Want to add in the box belwo</p>
+      <p>Write the Item you Want to add in the box below</p>
       <p>Click on the Item to mark it as done</p>
       <p>Click on "X" to remove Item</p>
       <input type="text" name="" placeholder="New Item...">
